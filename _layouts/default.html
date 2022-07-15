@@ -6,6 +6,9 @@ layout: compress
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -29,3 +32,5 @@ layout: compress
 
   </body>
 </html>
+
+{% include google_analytics.html %}
