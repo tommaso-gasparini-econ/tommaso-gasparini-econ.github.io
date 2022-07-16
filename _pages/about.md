@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD candidate in economics at the University of Mannheim and 
-Guest Researcher at the Deutsche Bundesbank.
+Guest Researcher at the Deutsche Bundesbank
 
 ### My research interests:
 * Macroeconomics
