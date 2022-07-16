@@ -5,12 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+## Work in Progress
 
 ### Imperfect Banking Competition and the Propagation of Risk Shocks
 <ins>Abstract</ins>:       This paper studies how the intensity of competition competition in the banking sector affects the propagation of risk shocks. I empirically show that an increase in uncertainty has a stronger negative impact on output growth when banking concentration is higher. Motivated by this stylized fact, I build a dynamic stochastic general equilibrium model with imperfect banking competition and financial frictions. In the model, entrepreneurs and imperfectly competitive banks engage in a loan contract and entrepreneurs receive idiosyncratic returns from renting capital. When banking competition is lower, banks charge higher loan rates to their borrowers making borrowers more fragile. Because of higher borrower fragility, second moment shocks to entrepreneur return have stronger negative effects on output when banking competition is lower.
 
-### Firm risk shocks and the banking accelerator with Vivien Lewis, Stéphane Moyen and Stefania Villa
+### Firm risk shocks and the banking accelerator 
+with Vivien Lewis, Stéphane Moyen and Stefania Villa
 <ins>Abstract</ins>:   Increases in firm default risk raise the default probability of banks in US data. We analyse firm risk shocks in a New Keynesian business cycle model, where entrepreneurs and banks engage in a loan contract and both are subject to idiosyncratic default risk. In the model, a wave of corporate defaults leads to losses on banks' balance sheets, thereby increasing bank defaults. A more leveraged banking sector exacerbates the contractionary effects of firm risk shocks, acting as a `banking accelerator'. We study macroprudential policy in the form of a penalty on excessive bank leverage. Such a penalty increases bank capital buffers, helping to dampen the effects of risk shocks.  
 
 ### Capital Requirements, Bank Competition and Stability
