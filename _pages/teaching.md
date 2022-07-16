@@ -5,8 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+## Teaching Assistant Experience
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Macroeconomics B (Bachelor)
+<ins>Professor</ins>: Antoine Camous
+Fall 2019 - Fall 2021
+
+### Macroeconomics A (Bachelor)
+<ins>Professor</ins>: Minchul Yum
+Spring 2019
