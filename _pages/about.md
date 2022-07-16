@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in economics at the University of Mannheim and <br/>
-Guest Researcher at the Deutsche Bundesbank
+I am a PhD candidate in economics at the **University of Mannheim** and <br/>
+Guest Researcher at the **Deutsche Bundesbank**
 
 ### My research interests:
 * Macroeconomics
