@@ -12,7 +12,7 @@ author_profile: true
 <br/>
 <ins>Awards</ins>:  IFABS Best PhD Paper Award 
 <br/>
-<sup><sub> Presented at: University of Mannheim, AMEF 2022 Thessaloniki, CLEEN PhD Workshop, ENTER Jamboree Barcelona, IFABS Naples 2022<sup><sub>
+<sup><sub> Presented at: University of Mannheim, AMEF 2022 Thessaloniki, CLEEN PhD Workshop, ENTER Jamboree Barcelona, IFABS Naples 2022, PhD Macro Workshop at the UZH, VfS Annual Conference <sup><sub>
 
 ### Firm risk shocks and the banking accelerator, with _Vivien Lewis, Stéphane Moyen and Stefania Villa_
 <ins>Abstract</ins>:   Increases in firm default risk raise the default probability of banks in US data. We analyse firm risk shocks in a New Keynesian business cycle model, where entrepreneurs and banks engage in a loan contract and both are subject to idiosyncratic default risk. In the model, a wave of corporate defaults leads to losses on banks' balance sheets, thereby increasing bank defaults. A more leveraged banking sector exacerbates the contractionary effects of firm risk shocks, acting as a `banking accelerator'. We study macroprudential policy in the form of a penalty on excessive bank leverage. Such a penalty increases bank capital buffers, helping to dampen the effects of risk shocks.
