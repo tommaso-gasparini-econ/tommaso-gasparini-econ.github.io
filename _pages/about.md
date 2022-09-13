@@ -17,7 +17,7 @@ Guest Researcher at the **Deutsche Bundesbank**
 * Financial Stability
 
 ## Contact:
-### Email: [tgaspari@mail.uni-mannheim.de](mailto:tgaspari@mail.uni-mannheim.de "Email")
+### Email: [tgaspari@mail.uni-mannheim.de](mailto:tommaso.gasparini@students.uni-mannheim.de "Email")
 ### Address:
 <address>
   University of Mannheim,<br /> Department of Economics,<br /> L 7 3–5, <br /> 68161 - Mannheim, Germany
