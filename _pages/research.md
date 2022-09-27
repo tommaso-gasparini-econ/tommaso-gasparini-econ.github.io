@@ -12,6 +12,8 @@ author_profile: true
 <br/>
 <ins>Awards</ins>:  IFABS Best PhD Paper Award 
 <br/>
+ 
+<br/>
 <sup><sub> Presented at: University of Mannheim, AMEF 2022 Thessaloniki, CLEEN PhD Workshop, ENTER Jamboree Barcelona, IFABS Naples 2022, PhD Macro Workshop at the UZH, VfS Annual Conference <sup><sub>
 
 ### Firm risk shocks and the banking accelerator, with _Vivien Lewis, Stéphane Moyen and Stefania Villa_
