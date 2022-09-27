@@ -7,8 +7,8 @@ author_profile: true
 
 ## Work in Progress
 
-### Imperfect Banking Competition and the Propagation of Risk Shocks
-<ins>Abstract</ins>:       This paper studies how the intensity of competition competition in the banking sector affects the propagation of risk shocks. I empirically show that an increase in uncertainty has a stronger negative impact on output growth when banking concentration is higher. Motivated by this stylized fact, I build a dynamic stochastic general equilibrium model with imperfect banking competition and financial frictions. In the model, entrepreneurs and imperfectly competitive banks engage in a loan contract and entrepreneurs receive idiosyncratic returns from renting capital. When banking competition is lower, banks charge higher loan rates to their borrowers making borrowers more fragile. Because of higher borrower fragility, second moment shocks to entrepreneur return have stronger negative effects on output when banking competition is lower.
+### Imperfect Banking Competition and the Propagation of Uncertainty Shocks
+<ins>Abstract</ins>:       This paper studies how the intensity of competition in the banking sector affects the propagation of uncertainty shocks. Analyzing a panel dataset of 44 country, I show that an increase in uncertainty has a stronger negative impact on output growth when banking competition is lower. In order to explain this fact, I build a dynamic stochastic general equilibrium model with imperfect banking competition and financial frictions. In the model, entrepreneurs and imperfectly competitive banks engage in a loan contract and entrepreneurs receive idiosyncratic productivity shocks. When banking competition is lower, banks charge higher loan rates to their borrowers making borrowers more fragile. Because of higher borrower fragility, uncertainty shocks to entrepreneurial productivity have stronger negative effects on defaults, investment and output when banking competition is lower. The result holds also in an economy with heterogeneous banks.
 <br/>
 <ins>Awards</ins>:  IFABS Best PhD Paper Award 
 <br/>
