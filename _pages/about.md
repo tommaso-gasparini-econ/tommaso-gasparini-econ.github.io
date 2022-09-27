@@ -13,8 +13,8 @@ Guest Researcher at the **Deutsche Bundesbank**
 
 ### My research interests:
 * Macroeconomics
-* Banking Competition
-* Financial Stability
+* Financial Intermediation
+* Business Cycle
 
 ## Contact:
 ### Email: [tommaso.gasparini@students.uni-mannheim.de](mailto:tommaso.gasparini@students.uni-mannheim.de "Email")
