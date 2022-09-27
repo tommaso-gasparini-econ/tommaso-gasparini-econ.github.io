@@ -8,7 +8,7 @@ author_profile: true
 ## Work in Progress
 
 ### Imperfect Banking Competition and the Propagation of Uncertainty Shocks
-<ins>Awards</ins>:  IFABS Best PhD Paper Award 
+** Awards **:  IFABS Best PhD Paper Award 
 <br/>
  
 <br/>
