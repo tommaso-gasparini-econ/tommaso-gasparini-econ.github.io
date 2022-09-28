@@ -84,12 +84,12 @@ author:
   avatar           : "Picture_web.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "University of Mannheim"
-  employer         :
+  employer         : "https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/CV.pdf"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "tommaso.gasparini@students.uni-mannheim.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/CV.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
