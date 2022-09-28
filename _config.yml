@@ -73,9 +73,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-gtag"
   google:
-    tracking_id          :
+    tracking_id          :  G-V6TYF8R4DW
+    anonymize_ip         : false # default	
 
 
 # Site Author "University of Mannheim,\nDepartment of Economics,\nL 7 3–5, 68161 - Mannheim, Germany"
