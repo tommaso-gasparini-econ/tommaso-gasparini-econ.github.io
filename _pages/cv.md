@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://www.dropbox.com/s/eo7m96wkn0ouz4b/CV.pdf?dl=0)
+You can download my CV [here](https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/blob/master/files/CV.pdf)
