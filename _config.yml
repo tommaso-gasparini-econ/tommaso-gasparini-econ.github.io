@@ -115,11 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "CV"
-      icon: "twitter"
-      url: "https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/CV.pdf"
-
+  cv               : "https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/CV.pdf"
 
 # Reading Files
 include:
