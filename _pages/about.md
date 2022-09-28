@@ -11,10 +11,15 @@ redirect_from:
 I am a PhD candidate in economics at the **University of Mannheim** and <br/>
 Guest Researcher at the **Deutsche Bundesbank**
 
+### CV
+You can download my CV [here](https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/CV.pdf)
+
 ### My research interests:
 * Macroeconomics
 * Financial Intermediation
 * Business Cycle
+
+
 
 ## Contact:
 ### Email: [tommaso.gasparini@students.uni-mannheim.de](mailto:tommaso.gasparini@students.uni-mannheim.de "Email")
