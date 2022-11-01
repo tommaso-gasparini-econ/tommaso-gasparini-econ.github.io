@@ -10,7 +10,9 @@ redirect_from:
 
 I am a PhD candidate in economics at the **University of Mannheim** and <br/>
 Guest Researcher at the **Deutsche Bundesbank**. <br/> <br/>
-I am on the 2022-23 job market and am available for interviews. 
+I am on the 2022-23 job market and am available for interviews. <br/> <br/>
+
+You can download my JMP [here](https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/JMP.pdf)
 
 
 ### CV
