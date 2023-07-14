@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /
 title: "Welcome!"
 excerpt: "About me"
@@ -23,7 +23,7 @@ You can download my CV [here](https://github.com/tommaso-gasparini-econ/tommaso-
 
 
 ## Contact:
-### Email: [tommaso.gasparini@students.uni-mannheim.de](mailto:tommaso.gasparini@students.uni-mannheim.de "Email")
+### Email: [tommaso.gasparini.econ@gmail.com](mailto:tommaso.gasparini.econ@gmail.com "Email")
 ### Address:
 <address>
   University of Mannheim,<br /> Department of Economics,<br /> L 7 3–5, <br /> 68161 - Mannheim, Germany
