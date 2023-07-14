@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -89,7 +89,7 @@ author:
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "tommaso.gasparini@students.uni-mannheim.de"
+  email            : "tommaso.gasparini.econ@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/CV.pdf"
   bitbucket        :
