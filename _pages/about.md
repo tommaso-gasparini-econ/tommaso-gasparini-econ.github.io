@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in economics at the **University of Mannheim** and <br/>
-Guest Researcher at the **Deutsche Bundesbank**. <br/> <br/>
-In September 2023 I will join the Financial Economics Research Division at Banque de France. You can download my JMP [here](https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/JMP.pdf).
+I am a research economist in the Financial Economics Research Division at Banque de France. You can download my JMP [here](https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/JMP.pdf).
 
 
 ### CV
@@ -23,10 +21,10 @@ You can download my CV [here](https://github.com/tommaso-gasparini-econ/tommaso-
 
 
 ## Contact:
-### Email: [tommaso.gasparini.econ@gmail.com](mailto:tommaso.gasparini.econ@gmail.com "Email")
+### Email: [tommaso.gasparini.econ@gmail.com](mailto:tommaso.gasparini.econ@gmail.com "Email") or [tommaso.gasparini@banque-france.fr](mailto:tommaso.gasparini@banque-france.fr "Email")
 ### Address:
 <address>
-  University of Mannheim,<br /> Department of Economics,<br /> L 7 3–5, <br /> 68161 - Mannheim, Germany
+  Banque de France,<br /> 41-1391 DGEI-DEMFI-RECFIN,<br /> 75049 Paris Cedex 01, <br /> 68161 - France
 </address>
 
 <!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
