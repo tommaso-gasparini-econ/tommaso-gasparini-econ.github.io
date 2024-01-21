@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a research economist in the Financial Economics Research Division at Banque de France. You can download my JMP [here](https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/JMP.pdf).
 <br />
-The views here expressed are my own and do not represent those of either Banque de France or the ESCB. 
+_The views here expressed are my own and do not represent those of either Banque de France or the ESCB._
 
 ### CV
 You can download my CV [here](https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/CV.pdf)
