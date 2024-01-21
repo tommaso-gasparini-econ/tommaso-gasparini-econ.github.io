@@ -79,7 +79,7 @@ analytics:
     anonymize_ip         : false # default	
 
 
-# Site Author "University of Mannheim,\nDepartment of Economics,\nL 7 3–5, 68161 - Mannheim, Germany"
+# Site Author "Banque de Frqnce,\n41-1391 DGEI-DEMFI-RECFIN,\n75049 Paris Cedex 01, France"
 author:
   name             : "Tommaso Gasparini"
   avatar           : "Picture_web.jpg"
