@@ -8,10 +8,11 @@ author_profile: true
 ## Working Papers
 
 ### Imperfect Banking Competition and the Propagation of Uncertainty Shocks
+#### R&R @JME [(BdF WP)]({https://www.banque-france.fr/en/publications-and-statistics/publications/imperfect-banking-competition-and-propagation-uncertainty-shocks)
 
-**Awards**:  IFABS Best PhD Paper Award [(Link)](https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/JMP.pdf)
+**Awards**:  IFABS Best PhD Paper Award [(Link most updated version)](https://github.com/tommaso-gasparini-econ/tommaso-gasparini-econ.github.io/raw/master/files/JMP.pdf)
 <br/>
-<ins>Abstract</ins>: Uncertainty shocks play a crucial role in driving business cycle fluctuations. This paper investigates the impact of changes in banking competition on the propagation of uncertainty shocks. Using a panel dataset of 44 countries, I show that lower banking competition amplifies the negative impact of uncertainty on output growth. I further explore this relationship through a dynamic stochastic general equilibrium model featuring imperfect banking competition and financial frictions. The model shows that lower banking competition leads to higher borrowing rates and increased risk-taking by entrepreneurs. As a result, when the number of competitors is lower, uncertainty shocks have a stronger negative impact on defaults, investment and output due to increased risk-taking.
+<ins>Abstract</ins>: Uncertainty shocks, by propagating through the banking sector, play a crucial role in driving business cycle fluctuations. To examine how the recent decline in U.S. banking competition has affected the transmission of these shocks, I develop a dynamic stochastic general equilibrium model featuring heterogeneous banks, imperfect banking competition and financial frictions. The model shows that reduced competition in the banking sector leads to higher borrowing rates and increased risk-taking by borrowers. As a result, uncertainty shocks generate more pronounced increases in defaults and sharper contractions in investment and output in less competitive banking environments. Quantitatively, the model implies that the recent decline in U.S. banking competition results in a 0.1 percentage points larger drop in GDP one year after an uncertainty shock. This finding is supported by panel local projection evidence indicating that lower banking competition amplifies the negative impact of uncertainty on GDP.
 
 ### Risky Firms and Fragile Banks: Implications for Macroprudential Policy
 #### With _Vivien Lewis, Stéphane Moyen and Stefania Villa_
@@ -24,8 +25,12 @@ author_profile: true
 
 ## Policy
 
+### Rapport sur la stabilité financière, Juin 2025 [(Link)](https://www.banque-france.fr/system/files/2025-06/RSF_juin_2025.pdf)
+<br/>
+With BdF colleagues
+
 ### Évaluation des risques du système financier français, Décembre 2023 [(Link)](https://www.banque-france.fr/system/files/2023-12/ERS%20S2%202023.pdf)
 <br/>
-With _Frédéric Ahado , Jade Al Yahya , Herizo Andrianiaina Ranaivosoa , Vladimir Azzopardi , Ludivine Berret , Pierre Berthonnaud , Clément Bourgey , Raphaël Bracquart , Jean-Charles Bricongne , Claire Brousse , Béranger Brutuille, Pierre Bui Quang , Aurore Cambou , Emilie Cambus , Marion Cochard , Jérôme Coffinet , Etienne De L’estoile , Grégoire Desbrosses , Feyrouz Djabali , Marine Dujardin , Niamh Dunne , Anne Duquerroy , Fanchon Durand , Aurélien Espic , Laurent Faivre , Thomas Ferriere , Adam Golinski , Olivier Gonzalez , Raphaël Gorrand , Sophie Guilloux-Nefussi , Déborah Haddad , Jonas Heipertz , Dalia Ibrahim , Caroline Jardet , Tristan Jourde , Yannick Kalantzis , Lisa Kerdelhue , Antoine Lalliard , Mathias Le , Sandrine Lecarpentier , Alexandre Menard , Tarik Mouakil , Youssef Mouheb , Thibaut Piquard , Martin Saillard ,Dilyara Salakhova, Alice Schwenninger , Matthieu Segol , Louise Tupinier , Floris Van Dijk , Lucas Vernet and Yann Wicky_
+With BdF colleagues
 
 
